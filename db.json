@@ -1,0 +1,209 @@
+{
+ "rates": [
+  {
+   "rate": {
+     "origin_port": "MAR DEL PLATA, ARMDQ",
+     "destination_port": "ZARATE, ARZAE",
+     "total": "74000",
+     "currency": "USD",
+     "validity_start": "2019-11-06",
+     "validity_end": "2019-11-30",
+     "remarks": "What light is light, if Silvia be not seen? What joy is joy, if Silvia be not by— Unless it be to think that she is by And feed upon the shadow of perfection? Except I be by Silvia in the night, There is no music in the nightingale.",
+     "schedule": {
+      "transit_time": "10",
+      "type": "Direct",
+      "via": "CHSNA"
+     },
+     "ocean_freight": {
+      "20Dry": {
+      "amount": "2000",
+      "currency": "USD",
+      "units": "10",
+      "total": "20000",
+      "total_converted": {}
+     },
+     "40Dry": {
+      "amount": "2000",
+      "currency": "USD",
+      "units": "10",
+      "total": "20000",
+      "total_converted": {}
+     }
+   },
+   "origin_charges": {
+     "THC": {
+      "20DRY": {
+        "amount": "2000",
+        "currency": "USD",
+        "units": "2",
+        "calculation_type": "PER TEU",
+        "total": "4000",
+        "total_converted": {}
+      },
+      "40DRY": {
+        "amount": "3000",
+        "currency": "USD",
+        "units": "2",
+        "calculation_type": "PER TEU",
+        "total": "6000",
+        "total_converted": {}
+       }
+      }
+     },
+     "destination_charges": {
+       "THC": {
+         "20DRY": {
+          "amount": "3000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "6000",
+          "total_converted": {}
+         },
+         "40DRY": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
+         }
+        }
+       },
+       "freight_charges": {
+         "THC": {
+          "20DRY": {
+           "amount": "2000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "4000",
+           "total_converted": {}
+          },
+          "40DRY": {
+           "amount": "3000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "6000",
+           "total_converted": {}
+         }
+        },
+        "WRS": {
+         "20DRY": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
+       }
+      }
+     }
+    }
+   },
+   {
+   "rate": {
+     "origin_port": "DURRES, ALDRZ",
+     "destination_port": "USHUAIA, ARUSH",
+     "total": "72000",
+     "currency": "USD",
+     "validity_start": "2019-11-06",
+     "validity_end": "2019-11-30",
+     "remarks": "What light is light, if Silvia be not seen? What joy is joy, if Silvia be not by— Unless it be to think that she is by And feed upon the shadow of perfection? Except I be by Silvia in the night, There is no music in the nightingale.",
+     "schedule": {
+      "transit_time": "10",
+      "type": "Direct",
+      "via": "CHSNA"
+     },
+     "ocean_freight": {
+      "20Dry": {
+      "amount": "2000",
+      "currency": "USD",
+      "units": "10",
+      "total": "20000",
+      "total_converted": {}
+     },
+     "40Dry": {
+      "amount": "2000",
+      "currency": "USD",
+      "units": "10",
+      "total": "20000",
+      "total_converted": {}
+     }
+   },
+   "origin_charges": {
+     "THC": {
+      "20DRY": {
+        "amount": "2000",
+        "currency": "USD",
+        "units": "1",
+        "calculation_type": "PER TEU",
+        "total": "2000",
+        "total_converted": {}
+      },
+      "40DRY": {
+        "amount": "3000",
+        "currency": "USD",
+        "units": "2",
+        "calculation_type": "PER TEU",
+        "total": "6000",
+        "total_converted": {}
+       }
+      }
+     },
+     "destination_charges": {
+       "THC": {
+         "20DRY": {
+          "amount": "3000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "6000",
+          "total_converted": {}
+         },
+         "40DRY": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
+         }
+        }
+       },
+       "freight_charges": {
+         "THC": {
+          "20DRY": {
+           "amount": "2000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "4000",
+           "total_converted": {}
+          },
+          "40DRY": {
+           "amount": "3000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "6000",
+           "total_converted": {}
+         }
+        },
+        "WRS": {
+         "20DRY": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
+       }
+      }
+     }
+    }
+   }
+  ]
+}
+
